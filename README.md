@@ -6,7 +6,7 @@ Bu proje, Pomodoro tekniğini kullanarak odaklanma ve mola sürelerini yönetmek
 
 Aşağıda uygulamanın ana sayfasının bir ekran görüntüsü bulunmaktadır:
 
-![Ana Sayfa](src\images\image.png)
+![Ana Sayfa](./src/images/image.png)
 
 ## Özellikler
 - Çalışma ve mola sürelerini ayarlama
