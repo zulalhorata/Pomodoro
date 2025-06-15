@@ -16,7 +16,6 @@ Pomodoro Zamanlayıcı, çalışma sürelerinizi verimli bir şekilde yönetmeni
 - ⏱️ Özelleştirilebilir çalışma ve mola süreleri
 - 🎯 Günlük hedef belirleme ve takip
 - 📊 İstatistik ve ilerleme takibi
-- 🌙 Karanlık/Aydınlık tema desteği
 - 📱 Tamamen responsive tasarım
 - 💾 Oturum verilerini kaydetme ve senkronizasyon
 
